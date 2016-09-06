@@ -1,0 +1,25 @@
+Average Correlation : 0.153304022523
+Ridge Regression with alpha = 0.2
+		Train : 0.699084207669
+		Test : 0.0611364953966
+Ridge Regression with alpha = 0.3
+		Train : 0.700951976388
+		Test : 0.0536714075376
+Ordinary Regression
+		Train : 0.962349938036
+		Test : -0.0651264561488
+Ridge Regression with alpha = 0.1
+		Train : 0.697766824207
+		Test : 0.0163459682429
+Ridge Regression with alpha = 0.6
+		Train : 0.699581664021
+		Test : 0.080185340278
+Ridge Regression with alpha = 0.7
+		Train : 0.694614634866
+		Test : 0.136559624454
+Ridge Regression with alpha = 0.4
+		Train : 0.701030333769
+		Test : 0.047750820615
+Ridge Regression with alpha = 0.5
+		Train : 0.701485974403
+		Test : 0.0628097047443
